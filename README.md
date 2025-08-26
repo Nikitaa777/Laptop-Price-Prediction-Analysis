@@ -59,10 +59,3 @@ Models tested:
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository  
-   ```bash
-   git clone <your-repo-link>
-   cd laptop-price
-pip install -r requirements.txt
-jupyter notebook laptopData.ipynb
